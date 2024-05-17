@@ -1,1 +1,9 @@
+name: 'Keyword Releaser 2024'
+description: 'Creates releases based on a keyword'
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
+branding:
+   icon: 'gift'
+   color: 'blue'
 
