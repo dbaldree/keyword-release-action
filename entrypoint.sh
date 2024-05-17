@@ -39,5 +39,5 @@ then
 # otherwise
 else
     # exit gracefully
-    echo "Nothing to process."
+    echo "Nothing to process here."
 fi
