@@ -8,3 +8,4 @@ build:
 
 test:
 	./entrypoint.sh $(KEYWORD)
+
